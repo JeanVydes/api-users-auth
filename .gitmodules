@@ -1,0 +1,15 @@
+[submodule "api-auth"]
+	path = api-auth
+	url = git@github.com:DisposableChat/api-auth
+
+[submodule "api-core"]
+	path = api-core
+	url = git@github.com:DisposableChat/api-core
+	
+[submodule "api-users"]
+	path = api-users
+	url = git@github.com:DisposableChat/api-users
+	
+[submodule "deployment"]
+	path = deployment
+	url = git@github.com:DisposableChat/deployment
